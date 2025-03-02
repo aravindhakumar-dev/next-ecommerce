@@ -9,6 +9,7 @@ import "./styles/animate.css";
 import "./styles/nice-select.css";
 import "./styles/style.css";
 import "./styles/style1.css";
+
 import Nav from "@/components/Nav";
 
 const inter = Inter({ subsets: ["latin"] });
